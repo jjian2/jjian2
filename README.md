@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🧚‍♀️ 이름: 최지안
+🏫 학교: 동양미래대학교
+💻 학과 : 인공지능소프트웨어학과
+
 <!--
 **jjian2/jjian2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
