@@ -4,6 +4,9 @@
 🏫 학교: 동양미래대학교 <br>
 💻 학과 : 인공지능소프트웨어학과 <br>
 
+[![네이버블로그](네이버블로그.jpg)](https://blog.naver.com/ubeen315)
+
+
 <!-- HTML 버튼 코드 -->
 <a href="https://blog.naver.com/ubeen315" class="button">블로그</a>
 
