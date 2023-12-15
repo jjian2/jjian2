@@ -1,9 +1,9 @@
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=90)
 
 
-
-### Hi there 👋
 <div align=center>
+### Hi there 👋
+
 🧚‍♀️ 이름: 최지안 <br>
 🏫 학교: 동양미래대학교 <br>
 💻 학과 : 인공지능소프트웨어학과 <br>
