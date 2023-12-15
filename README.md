@@ -42,6 +42,9 @@
 
 </div> 
 
+<p align="center">
+  <img src="이미지URL">
+</p>
 
 
 <!--
