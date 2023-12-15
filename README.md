@@ -2,7 +2,7 @@
 
 
 <div align=center>
-### Hi there 👋
+ Hi there 👋
 
 🧚‍♀️ 이름: 최지안 <br>
 🏫 학교: 동양미래대학교 <br>
