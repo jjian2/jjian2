@@ -8,6 +8,12 @@
 🏫 학교: 동양미래대학교 <br>
 💻 학과 : 인공지능소프트웨어학과 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 [![네이버블로그](네이버블로그.jpg)](https://blog.naver.com/ubeen315)
 
 
