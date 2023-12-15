@@ -15,6 +15,11 @@
 </div>
 
 <h1>🤙 Contact Me <hr>
+<a href="https://www.instagram.com/_jji.an_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://blog.naver.com/ubeen315" target="_blank">
+  <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+
 
 
 <h1>🤙 Number of visitors to my GitHub <hr>
