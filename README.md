@@ -31,6 +31,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjian2%2Fjjian2%2Ftree%2Fmain&count_bg=%23EBB8DC&title_bg=%23F7E8E8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 </div> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jjian2)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![jjian2's github stats](https://github-readme-stats.vercel.app/api?username=jjian2&show_icons=true)
 [![jjian2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjian2&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jjian2)
