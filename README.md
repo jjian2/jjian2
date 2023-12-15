@@ -1,6 +1,6 @@
-<div align=center>
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=jian%GITNUB%20HOME!&fontSize=90)
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=jian%GITNUB%20HOME!&fontSize=90)
+<div align=center>
  Hi there 👋
 
 🧚‍♀️ 이름: 최지안 <br>
