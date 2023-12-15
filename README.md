@@ -3,11 +3,11 @@
 
 
 ### Hi there 👋
-
+<div align=center>
 🧚‍♀️ 이름: 최지안 <br>
 🏫 학교: 동양미래대학교 <br>
 💻 학과 : 인공지능소프트웨어학과 <br>
-
+</div>
 <h1>⚒️ Tech Stacks <hr>
 
 <div align=center> 
