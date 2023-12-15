@@ -32,6 +32,7 @@
 
 </div> 
 
+<div align=center> 
 <h2>🏆 MY trophy 🏆<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jjian2)](https://github.com/ryo-ma/github-profile-trophy)
@@ -39,7 +40,7 @@
 ![jjian2's github stats](https://github-readme-stats.vercel.app/api?username=jjian2&show_icons=true)
 [![jjian2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjian2&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jjian2)
 
-
+</div> 
 
 
 
