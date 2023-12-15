@@ -15,9 +15,7 @@
 </div>
 
 <h1>🤙 Contact Me <hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jjian2&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
