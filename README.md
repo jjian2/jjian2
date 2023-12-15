@@ -1,3 +1,7 @@
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=90)
+
+
+
 ### Hi there 👋
 
 🧚‍♀️ 이름: 최지안 <br>
