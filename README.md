@@ -15,6 +15,7 @@
 </div>
 
 <h1>🤙 Contact Me <hr>
+  <div align=center> 
 <a href="https://www.instagram.com/_jji.an_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://blog.naver.com/ubeen315" target="_blank">
