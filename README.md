@@ -42,8 +42,11 @@
 
 </div> 
 
+
+
+
 <p align="center">
-  <img src="이미지URL">
+  <img src="img width="747" alt="스크린샷 2023-12-15 오후 11 53 10" src="https://github.com/jjian2/jjian2/assets/127281801/78c15fc4-2b3d-4dee-b61e-2fd8c48c7686"">
 </p>
 
 
