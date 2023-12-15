@@ -1,5 +1,5 @@
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Welcome%20Jian%20Github!&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Welcome%18Jian%18Github!&fontSize=90)
 
 <div align=center>
  Hi there 👋
