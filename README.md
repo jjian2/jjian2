@@ -45,9 +45,7 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/jjian2/ai-jian/assets/127281801/4367f3fa-113a-4eb1-aeaa-a5fd08016e44">
-</p>
+
 
 
 <!--
